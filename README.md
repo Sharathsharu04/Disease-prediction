@@ -1,6 +1,6 @@
 # Disease-predictor
 
- 5-Day Bootcamp on Disease Predictor
+# 5-Day Bootcamp on Disease Predictor
 
 Welcome to the repository for our five-day bootcamp on disease prediction. This program was designed to give participants a complete hands-on experience, starting from the basics of machine learning and ending with a working application that predicts diseases. Instead of being just theory, every day was about building something practical and learning by doing.
 
